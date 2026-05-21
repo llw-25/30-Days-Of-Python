@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d04e7a4f-12f2-4505-a70e-15759a8ceb21" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Day_Operators/03_operators.md" beforeDir="false" afterPath="$PROJECT_DIR$/03_Day_Operators/03_operators.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Day_Strings/04_strings.md" beforeDir="false" afterPath="$PROJECT_DIR$/04_Day_Strings/04_strings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Day_Lists/05_lists.md" beforeDir="false" afterPath="$PROJECT_DIR$/05_Day_Lists/05_lists.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Day_Tuples/06_tuples.md" beforeDir="false" afterPath="$PROJECT_DIR$/06_Day_Tuples/06_tuples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Day_Sets/07_sets.md" beforeDir="false" afterPath="$PROJECT_DIR$/07_Day_Sets/07_sets.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Day_Dictionaries/08_dictionaries.md" beforeDir="false" afterPath="$PROJECT_DIR$/08_Day_Dictionaries/08_dictionaries.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Day_Conditionals/09_conditionals.md" beforeDir="false" afterPath="$PROJECT_DIR$/09_Day_Conditionals/09_conditionals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Day_Loops/10_loops.md" beforeDir="false" afterPath="$PROJECT_DIR$/10_Day_Loops/10_loops.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Day_Functions/11_functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/11_Day_Functions/11_functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Day_Modules/12_modules.md" beforeDir="false" afterPath="$PROJECT_DIR$/12_Day_Modules/12_modules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_Day_List_comprehension/13_list_comprehension.md" beforeDir="false" afterPath="$PROJECT_DIR$/13_Day_List_comprehension/13_list_comprehension.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Day_Higher_order_functions/14_higher_order_functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/14_Day_Higher_order_functions/14_higher_order_functions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_Day_Python_type_errors/15_python_type_errors.md" beforeDir="false" afterPath="$PROJECT_DIR$/15_Day_Python_type_errors/15_python_type_errors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Day_Python_date_time/16_python_datetime.md" beforeDir="false" afterPath="$PROJECT_DIR$/16_Day_Python_date_time/16_python_datetime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_Day_Exception_handling/17_exception_handling.md" beforeDir="false" afterPath="$PROJECT_DIR$/17_Day_Exception_handling/17_exception_handling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Day_Regular_expressions/18_regular_expressions.md" beforeDir="false" afterPath="$PROJECT_DIR$/18_Day_Regular_expressions/18_regular_expressions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Day_File_handling/19_file_handling.md" beforeDir="false" afterPath="$PROJECT_DIR$/19_Day_File_handling/19_file_handling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Day_Python_package_manager/20_python_package_manager.md" beforeDir="false" afterPath="$PROJECT_DIR$/20_Day_Python_package_manager/20_python_package_manager.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Day_Classes_and_objects/21_classes_and_objects.md" beforeDir="false" afterPath="$PROJECT_DIR$/21_Day_Classes_and_objects/21_classes_and_objects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Day_Web_scraping/22_web_scraping.md" beforeDir="false" afterPath="$PROJECT_DIR$/22_Day_Web_scraping/22_web_scraping.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_Day_Virtual_environment/23_virtual_environment.md" beforeDir="false" afterPath="$PROJECT_DIR$/23_Day_Virtual_environment/23_virtual_environment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_Day_Statistics/24_statistics.md" beforeDir="false" afterPath="$PROJECT_DIR$/24_Day_Statistics/24_statistics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Day_Pandas/25_pandas.md" beforeDir="false" afterPath="$PROJECT_DIR$/25_Day_Pandas/25_pandas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Day_Python_web/26_python_web.md" beforeDir="false" afterPath="$PROJECT_DIR$/26_Day_Python_web/26_python_web.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27_Day_Python_with_mongodb/27_python_with_mongodb.md" beforeDir="false" afterPath="$PROJECT_DIR$/27_Day_Python_with_mongodb/27_python_with_mongodb.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_Day_API/28_API.md" beforeDir="false" afterPath="$PROJECT_DIR$/28_Day_API/28_API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29_Day_Building_API/29_building_API.md" beforeDir="false" afterPath="$PROJECT_DIR$/29_Day_Building_API/29_building_API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30_Day_Conclusions/30_conclusions.md" beforeDir="false" afterPath="$PROJECT_DIR$/30_Day_Conclusions/30_conclusions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/02_variables_builtin_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/03_operators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/04_strings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/05_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/06_tuples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/07_sets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/08_dictionaries.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/09_conditionals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/10_loops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/11_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/12_modules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/13_list_comprehension.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/14_higher_order_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/15_python_type_errors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/15_python_type_errors_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/16_python_datetime.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/16_python_datetime_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/17_exception_handling_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/18_regular_expressions_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/19_file_handling_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/20_python_package_manager_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/21_classes_and_objects_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/22_web_scraping_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/23_virtual_environment_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/24_statistics_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/25_pandas_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/26_python_web_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/27_python_with_mongodb_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/28_API_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/29_building_API_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/30_conclusions_cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/02_variables_builtin_functions_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/03_operators_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/04_strings_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/05_lists_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/06_tuples_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/07_sets_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/08_dictionaries_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/09_conditionals_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/10_loops_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/11_functions_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/12_modules_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/13_list_comprehension_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/14_higher_order_functions_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/15_python_type_errors_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/16_python_datetime_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/17_exception_handling_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/18_regular_expressions_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/19_file_handling_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/20_python_package_manager_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/21_classes_and_objects_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/22_web_scraping_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/23_virtual_environment_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/24_statistics_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/25_pandas_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/26_python_web_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/27_python_with_mongodb_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/28_API_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/29_building_API_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/30_conclusions_de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/German/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/04_strings_ko.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/05_Day_Lists/05_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/07_sets_ko.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/08_Day_Dictionaries/08_dictionaries.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/10_loops_ko.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Korean/readme_ko.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/02_variables_builtin_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/03_operators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/04_strings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/05_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/06_tuples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/07_sets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/08_dictionaries.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/09_conditionals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/10_loops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/11_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/12_modules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/13_list_comprehension.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/14_higher_order_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/15_python_type_errors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/16_python_datetime.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/17_exception_handling.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/18_regular_expressions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/19_file_handling.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/20_python_package_manager.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/21_classes_and_objects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/22_web_scraping.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/23_virtual_environment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/24_statistics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/25_pandas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/26_python_web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/27_python_with_mongodb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/28_API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/29_building_API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/30_conclusions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persain/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portuguese/02_Dia_Variaveis_BuiltIn_Functions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portuguese/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/01_Day_Introduction/helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/02_Day_Variables_builtin_functions/variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/02_variables_builtin_functions_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/03_Day_Operators/03_operators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/03_Day_Operators/day-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/03_operators_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/04_strings_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/05_lists_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/06_tuples_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/07_sets_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/08_dictionaries_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/09_conditionals_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/10_loops_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/11_functions_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/12_modules_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/13_list_comprehension_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/14_higher_order_functions_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/15_python_type_errors_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/16_python_datetime_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/17_exception_handling_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/18_regular_expressions_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/19_file_handling_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/20_python_package_manager_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/21_classes_and_objects_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/22_web_scraping_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/23_virtual_environment_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/24_statistics_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/25_pandas_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/26_python_web_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/27_python_with_mongodb_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/28_API_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/29_building_API_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/30_conclusions_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/README_sp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ukrainian/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymodule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypackage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypackage/arithmetics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypackage/greet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy_files/numpy_108_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy_files/numpy_122_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy_files/numpy_123_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme10-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme13-15.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme16-18.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme19-21.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme22-24.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme25-27.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme28-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme4-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/readme7-9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_for_web/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_files/test_121_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_files/test_141_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_files/test_143_0.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="21" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3E28dcERQDLOqS5WN1PTifrpA70" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/PYLearn/30day/Chinese",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d04e7a4f-12f2-4505-a70e-15759a8ceb21" name="更改" comment="" />
+      <created>1779365392075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779365392075</updated>
+      <workItem from="1779365393323" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
